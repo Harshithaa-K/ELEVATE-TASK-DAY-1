@@ -27,7 +27,7 @@ Accessed the Dockerized App
 Pulled Docker image from DockerHub.
 Ran locally and accessed via http://192.168.0.113:3001/
 
-🐳 DockerHub Repository (Update with your link)
+🐳 DockerHub Repository 
 👉 https://hub.docker.com/repository/docker/harshithagowdam/node-app
 
 📌 GitHub Repository
